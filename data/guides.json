@@ -1,0 +1,1510 @@
+[
+  {
+    "slug": "campus-france-guide",
+    "title": "Campus France de A à Z",
+    "description": "Guide complet des procédures Campus France pour étudier en France.",
+    "category": "France",
+    "subcategory": "Campus France",
+    "country": "France",
+    "read_time": "15 min",
+    "icon_type": "GraduationCap",
+    "intro": "Campus France est l'agence officielle qui accompagne les étudiants étrangers souhaitant poursuivre leurs études en France. Voici les étapes clés pour réussir votre candidature.",
+    "sections": [
+      {
+        "title": "1. Créer son compte",
+        "text": "Rendez-vous sur le portail Études en France et créez votre compte. Vous aurez besoin de votre passeport et d'une adresse email valide.",
+        "link": {
+          "label": "Portail Études en France",
+          "url": "https://pastel.diplomatie.gouv.fr/etudesenfrance"
+        }
+      },
+      {
+        "title": "2. Choisir ses formations",
+        "text": "Vous pouvez candidater à plusieurs formations classées par ordre de préférence. Recherchez des universités et grandes écoles correspondant à votre projet académique.",
+        "link": {
+          "label": "Rechercher des formations",
+          "url": "https://www.campusfrance.org/fr"
+        }
+      },
+      {
+        "title": "3. Rédiger la lettre de motivation",
+        "text": "Votre lettre doit convaincre le jury. Montrez pourquoi vous choisissez cette formation spécifique, comment elle correspond à votre parcours et à vos objectifs professionnels."
+      },
+      {
+        "title": "4. Télécharger les documents",
+        "text": "Votre dossier doit contenir : relevés de notes traduits et apostillés, lettre de motivation, CV académique, recommandations de professeurs, et attestation de niveau de français (TCF, DELF ou DALF)."
+      },
+      {
+        "title": "5. Payer les frais Campus France",
+        "text": "Un frais d'inscription d'environ 85€ TTC est requis pour accéder aux services Campus France et soumettre votre dossier."
+      },
+      {
+        "title": "6. Entretien Campus France",
+        "text": "Après soumission, vous serez convoqué pour un entretien dans l'espace Campus France de votre pays. Préparez-vous à expliquer votre projet et votre motivation."
+      },
+      {
+        "title": "7. Réponse des universités",
+        "text": "Les universités vous enverront directement leurs réponses. Acceptez l'une d'elles et obtenez une attestation d'admission."
+      },
+      {
+        "title": "8. Demander votre visa",
+        "text": "Une fois admis, demandez votre visa étudiant long séjour (VLS-TS) auprès du consulat français. Le visa est généralement gratuit pour les étudiants."
+      }
+    ],
+    "tip": "Commencez vos démarches au moins 6 mois avant la rentrée souhaitée. Les délais administratifs peuvent être longs et les places limitées.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "France",
+      "Candidature",
+      "Visa",
+      "Études"
+    ],
+    "useful_links": [
+      {
+        "label": "Campus France",
+        "url": "https://www.campusfrance.org"
+      },
+      {
+        "label": "Études en France",
+        "url": "https://pastel.diplomatie.gouv.fr/etudesenfrance"
+      },
+      {
+        "label": "France Visas",
+        "url": "https://france-visas.gouv.fr"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "avi-france-guide",
+    "title": "Calcul de l'AVI (Attestation de Virement Irrévocable)",
+    "description": "Comprendre et obtenir l'Attestation de Virement Irrévocable pour vos études en France.",
+    "category": "France",
+    "subcategory": "Financement",
+    "country": "France",
+    "read_time": "8 min",
+    "icon_type": "FileText",
+    "intro": "L'AVI (Attestation de Virement Irrévocable) est un document crucial pour prouver que vous disposez des ressources financières nécessaires pour étudier en France. C'est une condition importante pour l'admission et le visa.",
+    "sections": [
+      {
+        "title": "Qu'est-ce que l'AVI ?",
+        "text": "L'AVI est une attestation bancaire prouvant qu'un montant d'argent a été versé irrévocablement sur un compte en France ou qu'une garantie financière existe. Elle démontre votre capacité à couvrir vos frais d'études et de vie."
+      },
+      {
+        "title": "Quel montant ?",
+        "text": "Le montant varie selon la région et les frais d'université. En général, entre 8 000€ et 15 000€ pour la première année. Consultez votre université pour le montant exact requis."
+      },
+      {
+        "title": "Comment l'obtenir ?",
+        "text": "Vous devez ouvrir un compte bancaire en France (pour les pays africains, utilisez les partenaires comme Expatrio, Coracle ou Fintiba) ou faire un virement depuis votre pays. Demandez ensuite l'attestation à votre banque."
+      },
+      {
+        "title": "Banques camerounaises partenaires",
+        "text": "BICEC, SGBC, Afriland First Bank, Standard Chartered Bank. Contactez-les pour les conditions d'AVI."
+      },
+      {
+        "title": "Banques togolaises partenaires",
+        "text": "BTCI, Ecobank, UTB, BOA. Vérifiez les conditions pour les virements internationaux."
+      },
+      {
+        "title": "Alternative : le garant",
+        "text": "Si l'AVI est impossible, vous pouvez proposer un garant (parent, proche) qui prouvera avoir les ressources nécessaires. Tous les documents du garant seront nécessaires."
+      }
+    ],
+    "tip": "Préparez cette attestation dès le démarrage de votre dossier Campus France. Une AVI faible peut compromettre votre admission.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "France",
+      "Financement",
+      "AVI",
+      "Ressources financières"
+    ],
+    "useful_links": [
+      {
+        "label": "Expatrio",
+        "url": "https://www.expatrio.com"
+      },
+      {
+        "label": "Coracle",
+        "url": "https://www.coracle.io"
+      },
+      {
+        "label": "Fintiba",
+        "url": "https://www.fintiba.com"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "apl-france-guide",
+    "title": "Les APL expliquées",
+    "description": "Tout savoir sur les Aides Personnalisées au Logement (APL) en France.",
+    "category": "France",
+    "subcategory": "Logement",
+    "country": "France",
+    "read_time": "12 min",
+    "icon_type": "Home",
+    "intro": "Les APL (Aides Personnalisées au Logement) sont des allocations de la CAF destinées à réduire les dépenses de logement des étudiants en France. C'est une aide précieuse pour beaucoup.",
+    "sections": [
+      {
+        "title": "Qui peut bénéficier des APL ?",
+        "text": "Les étudiants étrangers résidant légalement en France et disposant d'un titre de séjour valide peuvent en bénéficier. Les ressortissants de l'UE/EEE et certains pays ont des conditions spécifiques."
+      },
+      {
+        "title": "Quel montant pour les APL ?",
+        "text": "Le montant varie selon votre loyer, vos ressources, et le nombre de personnes à charge. Il peut aller de 100€ à 300€ ou plus par mois. Une simulation sur www.caf.fr donne une estimation."
+      },
+      {
+        "title": "Où trouver un logement CROUS ?",
+        "text": "Les résidences CROUS offrent des loyers modérés (souvent 200-400€). Consultez le portail CROUS de votre région pour les disponibilités.",
+        "link": {
+          "label": "CROUS",
+          "url": "https://www.crous.fr"
+        }
+      },
+      {
+        "title": "Logement privé : comment bénéficier des APL ?",
+        "text": "Vous pouvez aussi bénéficier des APL en logement privé. Le propriétaire doit accepter et se déclarer auprès de la CAF. Vérifiez que le logement est aux normes."
+      },
+      {
+        "title": "Documents à préparer",
+        "text": "Votre titre de séjour, contrat de location, dernière quittance de loyer, avis d'imposition, relevé d'identité bancaire (RIB), et justificatifs de ressources."
+      },
+      {
+        "title": "Démarche d'inscription",
+        "text": "Inscrivez-vous auprès de la CAF avec vos documents dans les 2 mois suivant votre installation. Les APL sont versées rétroactivement à partir du mois de demande."
+      }
+    ],
+    "tip": "Ne tardez pas à vous inscrire à la CAF. Vous ne recevrez les APL qu'à partir de la date de demande, pas rétroactivement.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "France",
+      "Logement",
+      "APL",
+      "CAF",
+      "Aides"
+    ],
+    "useful_links": [
+      {
+        "label": "CAF",
+        "url": "https://www.caf.fr"
+      },
+      {
+        "label": "CROUS",
+        "url": "https://www.crous.fr"
+      },
+      {
+        "label": "MesServicesEtudiant",
+        "url": "https://www.messervicesetudiant.gouv.fr"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "logement-france-guide",
+    "title": "Trouver un logement en France",
+    "description": "Guide complet pour trouver et sécuriser un logement étudiant en France.",
+    "category": "France",
+    "subcategory": "Logement",
+    "country": "France",
+    "read_time": "10 min",
+    "icon_type": "Home",
+    "intro": "Trouver un logement en France peut être complexe. Voici les meilleures stratégies pour un étudiant africain.",
+    "sections": [
+      {
+        "title": "Résidences CROUS : la meilleure option",
+        "text": "Les résidences du CROUS offrent des loyers modérés (150-400€), souvent proches des campus, et permettent l'accès aux APL. Les demandes se font online lors de Parcoursup.",
+        "link": {
+          "label": "CROUS",
+          "url": "https://www.crous.fr"
+        }
+      },
+      {
+        "title": "Plateformes de recherche",
+        "text": "SeLoger, LeBonCoin, Airbnb, Facebook Groups (recherchez le groupe de votre université). Attention aux arnaques : ne payez jamais sans visite."
+      },
+      {
+        "title": "Agences immobilières",
+        "text": "Certaines agences spécialisent dans la location aux étudiants étrangers. Elles facturent une commission (généralement 1 mois de loyer) mais facilitent l'accès."
+      },
+      {
+        "title": "Pièges à éviter",
+        "text": "Méfiez-vous des loyers trop bas, des demandes de paiement avant visite, et des contrats ambigus. Vérifiez toujours que le logement existe via Google Maps/Street View."
+      },
+      {
+        "title": "Documents requis",
+        "text": "Photocopie passeport, lettre d'admission, justificatif de ressources (AVI ou garant), et assurance habitation. Certains propriétaires demandent une caution (généralement 1-2 mois de loyer)."
+      }
+    ],
+    "tip": "Commencez votre recherche 3-4 mois avant l'arrivée. Les bons logements se louent vite, notamment en septembre.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "France",
+      "Logement",
+      "CROUS",
+      "Recherche"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "visa-vls-ts-france-guide",
+    "title": "Visa VLS-TS Étudiant France",
+    "description": "Comment demander et obtenir le visa long séjour valant titre de séjour (VLS-TS) pour étudier en France.",
+    "category": "France",
+    "subcategory": "Visa",
+    "country": "France",
+    "read_time": "10 min",
+    "icon_type": "FileText",
+    "intro": "Le VLS-TS (Visa Long Séjour valant Titre de Séjour) est le visa pour les études en France d'une durée de 1 à 4 ans. Voici comment le demander.",
+    "sections": [
+      {
+        "title": "Documents obligatoires",
+        "text": "Passeport valide, lettre d'admission, AVI (ressources financières ~615€/mois minimum), assurance santé, fiche de visite médicale, et certificat de non-polygamie (pays concernés)."
+      },
+      {
+        "title": "Où demander ?",
+        "text": "Auprès du consulat français de votre pays de résidence. Prendre rendez-vous en ligne généralement."
+      },
+      {
+        "title": "Délais",
+        "text": "Comptez 4 à 8 semaines pour instruction. Déposez votre dossier au moins 3 mois avant votre arrivée prévue en France."
+      },
+      {
+        "title": "Coût",
+        "text": "Le VLS-TS est gratuit pour les étudiants. Seuls les frais de livraison du passeport peuvent être appliqués."
+      },
+      {
+        "title": "Après l'obtention",
+        "text": "Une fois en France, vous devez valider votre VLS-TS à la préfecture dans les 3 mois. C'est un titre de séjour, pas besoin de demander une carte de résident."
+      }
+    ],
+    "tip": "Gardez une copie de tous vos documents. La validation du VLS-TS n'est qu'une formalité si tout est en ordre.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "France",
+      "Visa",
+      "VLS-TS",
+      "Administratif"
+    ],
+    "useful_links": [
+      {
+        "label": "France Visas",
+        "url": "https://france-visas.gouv.fr"
+      },
+      {
+        "label": "Liste consulats",
+        "url": "https://www.diplomatie.gouv.fr"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "travail-france-etudiant",
+    "title": "Travailler pendant vos études en France",
+    "description": "Comment travailler légalement en France en tant qu'étudiant étranger.",
+    "category": "France",
+    "subcategory": "Travail",
+    "country": "France",
+    "read_time": "8 min",
+    "icon_type": "Briefcase",
+    "intro": "En tant qu'étudiant, vous pouvez travailler en France pour arrondir vos fins de mois. Voici les règles.",
+    "sections": [
+      {
+        "title": "Limite de travail par semaine",
+        "text": "Pendant l'année scolaire, vous ne pouvez pas dépasser 18 heures/semaine (soit environ 3 jours). Pendant les vacances scolaires, vous pouvez travailler à temps plein (35h/semaine)."
+      },
+      {
+        "title": "Types d'emplois autorisés",
+        "text": "Jobs étudiants : restaurant, café, librairie, aide à domicile, babysitting, etc. Les stages rémunérés et les CDI/CDD dans votre domaine d'études sont aussi possibles."
+      },
+      {
+        "title": "Déclaration",
+        "text": "Vous devez être déclaré aux impôts et cotiser à la sécurité sociale (déductions sur salaire)."
+      },
+      {
+        "title": "Impact sur les bourses",
+        "text": "Les revenus d'emploi peuvent affecter le calcul des bourses ou des APL. Déclarez vos revenus pour éviter les problèmes."
+      },
+      {
+        "title": "Où chercher",
+        "text": "Indeed, LinkedIn, Student Job, Facebook Groups des universités, bulletin board de votre fac, et les services de l'université."
+      }
+    ],
+    "tip": "Préférez les emplois flexibles liés à l'université (bibliothèque, travaux pratiques) qui comprennent mieux les contraintes étudiantes.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "France",
+      "Travail",
+      "Étudiant",
+      "Ressources"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "etudier-allemagne-gratuit",
+    "title": "Étudier gratuitement en Allemagne",
+    "description": "Guide complet pour étudier gratuitement en Allemagne : universités, frais, procédures.",
+    "category": "Allemagne",
+    "subcategory": "Études supérieures",
+    "country": "Allemagne",
+    "read_time": "15 min",
+    "icon_type": "GraduationCap",
+    "intro": "L'Allemagne offre l'opportunité rare en Europe d'étudier gratuitement dans les universités publiques. Voici comment en bénéficier.",
+    "sections": [
+      {
+        "title": "Pourquoi étudier en Allemagne ?",
+        "text": "Frais de scolarité gratuits ou très réduits, universités reconnues mondialement, forte demande en ingénieurs/data scientists, bonne qualité de vie pour les étudiants."
+      },
+      {
+        "title": "Universités publiques vs privées",
+        "text": "Les universités publiques (TU Munich, Berlin, Heidelberg) sont gratuites ou presque (~200€/semestre de frais administratifs). Les universités privées coûtent 10 000€+/an."
+      },
+      {
+        "title": "Qui peut étudier gratuitement ?",
+        "text": "Tous les étudiants étrangers peuvent s'inscrire dans les universités publiques allemandes et bénéficier des frais réduits. Pas de distinction de nationalité."
+      },
+      {
+        "title": "Langue d'enseignement",
+        "text": "La plupart des programmes sont en allemand. Certains masters sont en anglais, notamment en engineering et informatique. Le niveau B2 allemand est généralement requis."
+      },
+      {
+        "title": "TestDaF et DSH",
+        "text": "Vous devez passer le TestDaF (niveau 4) ou le DSH pour prouver votre niveau d'allemand. Ces tests sont reconnus par toutes les universités allemandes.",
+        "link": {
+          "label": "TestDaF officiel",
+          "url": "https://www.testdaf.de"
+        }
+      },
+      {
+        "title": "Processus d'admission",
+        "text": "Postulez directement auprès des universités ou via uni-assist. Fournissez : CV, lettre de motivation (en allemand), relevés de notes, et certificat de langue (TestDaF/DSH)."
+      },
+      {
+        "title": "Compte bloqué (Sperrkonto)",
+        "text": "Vous devez justifier de ~934€/mois (~11 208€/an) sur un compte bloqué. Des prestataires comme Expatrio ou Fintiba facilitent cette démarche."
+      }
+    ],
+    "tip": "Commencez votre TestDaF au moins 1 an avant l'admission. Le niveau d'allemand est la principale barrière.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Allemagne",
+      "Études gratuites",
+      "Universités",
+      "TestDaF"
+    ],
+    "useful_links": [
+      {
+        "label": "DAAD (bourses allemandes)",
+        "url": "https://www.daad.de"
+      },
+      {
+        "label": "Study in Germany",
+        "url": "https://www.study-in-germany.de"
+      },
+      {
+        "label": "TestDaF",
+        "url": "https://www.testdaf.de"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "sperrkonto-allemagne",
+    "title": "Sperrkonto Allemagne : Compte Bloqué",
+    "description": "Tout savoir sur le compte bloqué (Sperrkonto) pour les études en Allemagne.",
+    "category": "Allemagne",
+    "subcategory": "Financement",
+    "country": "Allemagne",
+    "read_time": "10 min",
+    "icon_type": "DollarSign",
+    "intro": "Le Sperrkonto (compte bloqué) est obligatoire pour obtenir un visa d'études en Allemagne. C'est un compte sur lequel vous bloquex vos ressources financières.",
+    "sections": [
+      {
+        "title": "Qu'est-ce qu'un Sperrkonto ?",
+        "text": "Un compte bancaire allemand où vous versez ~11 208€ pour l'année d'études. Cet argent est gelé et vous ne pouvez en retirer que 934€ par mois."
+      },
+      {
+        "title": "Montant requis",
+        "text": "Le montant actuel est 11 208€ (ou 934€ x 12 mois). Ce montant couvre les frais de vie, pas le logement obligatoirement."
+      },
+      {
+        "title": "Comment l'ouvrir ?",
+        "text": "Plusieurs prestataires allemands acceptent les internationaux. Les principaux : Expatrio, Fintiba, Coracle, DAAD. La procédure prend 2-3 semaines."
+      },
+      {
+        "title": "Expatrio",
+        "text": "Plateforme simple : ouvrez un Sperrkonto en 15 minutes, frais 19€. Vous recevez un certificat de blocage pour le visa.",
+        "link": {
+          "label": "Expatrio",
+          "url": "https://www.expatrio.com"
+        }
+      },
+      {
+        "title": "Fintiba",
+        "text": "Alternative à Expatrio. Offre similaire avec frais variables selon le montant versé.",
+        "link": {
+          "label": "Fintiba",
+          "url": "https://www.fintiba.com"
+        }
+      },
+      {
+        "title": "Retrait mensuel",
+        "text": "À partir du mois suivant l'ouverture, vous pouvez retirer 934€ par mois pour vivre. Le reste reste bloqué."
+      }
+    ],
+    "tip": "Ouvrez votre Sperrkonto au moins 1 mois avant de demander votre visa pour être sûr d'avoir le certificat à temps.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Allemagne",
+      "Financement",
+      "Sperrkonto",
+      "Visa"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "visa-allemagne-etudes",
+    "title": "Visa Allemagne pour Études",
+    "description": "Comment demander le visa étudiant allemand (Type D).",
+    "category": "Allemagne",
+    "subcategory": "Visa",
+    "country": "Allemagne",
+    "read_time": "8 min",
+    "icon_type": "FileText",
+    "intro": "Le visa national de type D est requis pour étudier en Allemagne. Voici les étapes.",
+    "sections": [
+      {
+        "title": "Documents requis",
+        "text": "Passeport valide, lettre d'admission, Sperrkonto (certificat de blocage), assurance santé, et formulaire de demande visa."
+      },
+      {
+        "title": "Où demander ?",
+        "text": "Auprès de l'ambassade ou du consulat allemand de votre pays. Un rendez-vous est généralement nécessaire."
+      },
+      {
+        "title": "Délais",
+        "text": "Comptez 4-8 semaines. Demandez au moins 2-3 mois avant le début de vos études."
+      },
+      {
+        "title": "Coût",
+        "text": "Environ 75€ (peut varier selon le pays)."
+      },
+      {
+        "title": "Après acceptation",
+        "text": "Une fois en Allemagne, enregistrez-vous à la préfecture (Ausländerbehörde) pour obtenir le titre de séjour (Aufenthaltstitel)."
+      }
+    ],
+    "tip": "Conservez tous les documents. L'inscription à la préfecture allemande est une simple formalité une fois le visa obtenu.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Allemagne",
+      "Visa",
+      "Administratif"
+    ],
+    "useful_links": [
+      {
+        "label": "Auswärtiges Amt (Ministère Affaires étrangères)",
+        "url": "https://www.auswaertiges-amt.de"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "erasmus-mundus-bourse",
+    "title": "Bourses Erasmus Mundus",
+    "description": "Guide complet pour obtenir une bourse Erasmus Mundus Joint Master Degree.",
+    "category": "Bourses",
+    "subcategory": "Europe",
+    "country": null,
+    "read_time": "12 min",
+    "icon_type": "Globe",
+    "intro": "Erasmus Mundus Joint Master Degrees sont des programmes de master sélectifs ouverts à tous les étudiants du monde, y compris africains. Les bourses couvrent frais + allocation.",
+    "sections": [
+      {
+        "title": "Qu'est-ce qu'Erasmus Mundus JMD ?",
+        "text": "Programmes de master (2 ans) offerts par un consortium de 2+ universités européennes partenaires. Les bourses couvrent les frais de scolarité + allocation mensuelle (1 200-1 400€)."
+      },
+      {
+        "title": "Bourses disponibles",
+        "text": "Environ 210 bourses/an pour tous les étudiants du monde. Très compétitif : 1 bourse pour ~100+ candidatures."
+      },
+      {
+        "title": "Critères",
+        "text": "Excellents résultats académiques (GPA 3.7+ idéalement), excellente connaissance de l'anglais (TOEFL 90+, IELTS 6.5+), lettre de motivation convaincante, et recommandations fortes."
+      },
+      {
+        "title": "Comment candidater ?",
+        "text": "Postulez directement auprès du consortium du programme que vous visez (pas de plateforme centralisée). Chaque programme a ses propres dates et critères."
+      },
+      {
+        "title": "Programmes en demande",
+        "text": "EMMTEMA (Technologies pour l'énergie, France/Belgique), MEME (Energie marine, France/Belgique), ISIS (Data Science, Belgique/France)."
+      },
+      {
+        "title": "Résultat de sélection",
+        "text": "Les résultats arrivent généralement en mai/juin. Si accepté, vous avez 1-2 semaines pour accepter la bourse."
+      }
+    ],
+    "tip": "Commencez vos préparatifs (tests de langue, recommandations) dès janvier pour des candidatures septembre. La sélection est très sévère.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Bourses",
+      "Erasmus",
+      "Europe",
+      "Master"
+    ],
+    "useful_links": [
+      {
+        "label": "Erasmus+ JMD",
+        "url": "https://erasmus-plus.ec.europa.eu"
+      },
+      {
+        "label": "Portail candidature",
+        "url": "https://www.emjm.info"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "daad-bourse",
+    "title": "DAAD - Bourses Allemandes",
+    "description": "Guide pour obtenir une bourse DAAD pour étudier en Allemagne.",
+    "category": "Bourses",
+    "subcategory": "Allemagne",
+    "country": "Allemagne",
+    "read_time": "10 min",
+    "icon_type": "Trophy",
+    "intro": "Le DAAD (Deutscher Akademischer Austauschdienst) propose des milliers de bourses pour étudiants africains souhaitant étudier en Allemagne.",
+    "sections": [
+      {
+        "title": "Types de bourses DAAD",
+        "text": "Bourses Master: 860€/mois. Bourses doctorat: 934€/mois. Durée : 1-4 ans selon le niveau."
+      },
+      {
+        "title": "Qui est éligible ?",
+        "text": "Étudiants diplômés d'un pays en développement (dont tous les pays africains). Très compétitif : ~10-15% d'acceptation."
+      },
+      {
+        "title": "Critères",
+        "text": "Excellentes notes (GPA 3.5+), expérience professionnelle ou académique pertinente, lettre de motivation convaincante, et recommandations fortes."
+      },
+      {
+        "title": "Candidature",
+        "text": "Via le portail en ligne du DAAD (Portal). Date limite généralement novembre/décembre pour une rentrée septembre."
+      },
+      {
+        "title": "Processus",
+        "text": "Candidature online > Pré-sélection > Entretien > Résultat final (juillet). Total ~8 mois."
+      },
+      {
+        "title": "Avantage majeur",
+        "text": "La bourse DAAD inclut l'assurance santé et couvre aussi les frais de l'université. Très précieuse."
+      }
+    ],
+    "tip": "Postulez même si vous pensez que la concurrence est forte. Les bourses DAAD changent parfois les vies.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Bourses",
+      "Allemagne",
+      "DAAD"
+    ],
+    "useful_links": [
+      {
+        "label": "DAAD",
+        "url": "https://www.daad.de"
+      },
+      {
+        "label": "Portal DAAD",
+        "url": "https://portal.daad.de"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "dsu-italie",
+    "title": "DSU - Diritto allo Studio Universitario",
+    "description": "Bourses et aides au logement pour les étudiants en Italie.",
+    "category": "Italie",
+    "subcategory": "Financement",
+    "country": "Italie",
+    "read_time": "10 min",
+    "icon_type": "Globe",
+    "intro": "Le DSU (Diritto allo Studio Universitario) est le système italien d'aide aux étudiants. Il propose des bourses, logements en résidence, et services.",
+    "sections": [
+      {
+        "title": "Qu'est-ce que le DSU ?",
+        "text": "Le DSU est géré par des organismes régionaux. Il offre bourses (300-4000€/an), logement en résidence, cantines, et services aux étudiants méritants ayant des ressources limitées."
+      },
+      {
+        "title": "Conditions d'accès",
+        "text": "Être inscrit dans une université italienne, avoir de bonnes notes (généralement >18/30), et avoir des ressources financières limitées (ISEE < ~20 000€)."
+      },
+      {
+        "title": "Comment postuler",
+        "text": "Les candidatures se font via le site de l'organisme régional DSU de votre région. Dates limites généralement septembre/octobre pour l'année académique."
+      },
+      {
+        "title": "ISEE (Indicatore della Situazione Economica Equivalente)",
+        "text": "Indicateur de vos ressources financières. Vous devez le calculer auprès de la CAF italienne. C'est obligatoire pour accéder aux aides DSU."
+      }
+    ],
+    "tip": "Commencez les démarches dès juillet/août. Les places pour le logement en résidence sont limitées.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Italie",
+      "Financement",
+      "DSU",
+      "Logement"
+    ],
+    "useful_links": [
+      {
+        "label": "Portal DSU (example)",
+        "url": "https://www.dsu.it"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "universitaly-italie",
+    "title": "Universitaly - Inscription en Italie",
+    "description": "Plateforme centrale pour s'inscrire dans les universités italiennes.",
+    "category": "Italie",
+    "subcategory": "Candidature",
+    "country": "Italie",
+    "read_time": "12 min",
+    "icon_type": "FileText",
+    "intro": "Universitaly est la plateforme officielle pour accéder à l'enseignement supérieur italien. Tous les étudiants, italiens et étrangers, candidatent via ce portail.",
+    "sections": [
+      {
+        "title": "Créer un compte",
+        "text": "Allez sur www.universitaly.it et créez votre compte avec email et mot de passe."
+      },
+      {
+        "title": "Chercher des formations",
+        "text": "Filtrez par région, domaine d'études, et niveau. Les universités proposeront des tests d'entrée ou des évaluations."
+      },
+      {
+        "title": "Documents requis",
+        "text": "Diplôme de bac traduit en italien, certificat de langue italienne (CELI, DELI ou autre), et certificat d'équivalence du diplôme (se renseigner auprès de chaque université)."
+      },
+      {
+        "title": "Langue italienne",
+        "text": "Pour les formations en italien, un niveau B1-B2 est généralement requis. CELI B2 ou DELI B2 sont acceptés."
+      }
+    ],
+    "tip": "Commencez 1 an avant votre candidature pour avoir le temps de passer les certificats de langue.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Italie",
+      "Candidature",
+      "Universitaly"
+    ],
+    "useful_links": [
+      {
+        "label": "Universitaly",
+        "url": "https://www.universitaly.it"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "ares-belgique",
+    "title": "ARES - Aide à la Réussite aux Études (Belgique)",
+    "description": "Aides aux étudiants en Belgique francophone et système ARES.",
+    "category": "Belgique",
+    "subcategory": "Financement",
+    "country": "Belgique",
+    "read_time": "8 min",
+    "icon_type": "Globe",
+    "intro": "ARES est l'académie de Recherche et d'Enseignement Supérieur en Belgique francophone. Elle gère les aides aux étudiants et les allocations.",
+    "sections": [
+      {
+        "title": "Aide à la Réussite aux Études",
+        "text": "Allocations mensuelles pour les étudiants ayant des ressources limitées. Montants: 150-200€/mois selon revenus."
+      },
+      {
+        "title": "Qui peut en bénéficier ?",
+        "text": "Étudiants belges et ressortissants UE inscrits en Wallonie ou à Bruxelles. Les pays africains n'en bénéficient généralement pas."
+      },
+      {
+        "title": "Bourses ARES pour étrangers",
+        "text": "Certains programmes offrent des bourses aux étudiants étrangers. À demander directement auprès de chaque université wallonne."
+      }
+    ],
+    "tip": "Les aides ARES sont limitées pour les étudiants étrangers. Explorez les bourses Erasmus+ plutôt.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Belgique",
+      "Financement",
+      "ARES"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "belgique-wallonie-flandre",
+    "title": "Belgique: Wallonie vs Flandre",
+    "description": "Comprendre les différences entre étudier en Wallonie et en Flandre.",
+    "category": "Belgique",
+    "subcategory": "Études supérieures",
+    "country": "Belgique",
+    "read_time": "10 min",
+    "icon_type": "Globe",
+    "intro": "La Belgique est divisée linguistiquement. Wallonie (français) et Flandre (néerlandais) ont des systèmes d'éducation différents.",
+    "sections": [
+      {
+        "title": "Wallonie (français)",
+        "text": "Universités: ULB, UCL, Liège, UMONS. Frais: ~500-1500€/an. Aides ARES limitées pour étrangers. Masters reconnus internationalement."
+      },
+      {
+        "title": "Flandre (néerlandais)",
+        "text": "Universités: KU Leuven, Gent, Anvers. Frais: ~900-2000€/an. Néerlandais B2+ requis. Excellentes universités mais langue barrière."
+      },
+      {
+        "title": "Bruxelles (bilingue)",
+        "text": "VUB (néerlandais), Université Saint-Louis (français), Haute École ECAM (français). Ville capitale avec beaucoup d'internationalité."
+      },
+      {
+        "title": "Reconnaissance des diplômes",
+        "text": "Les diplômes belges sont très reconnus en France, Canada, et Europe. Excellente réputation."
+      }
+    ],
+    "tip": "Choisissez basé sur la langue: français → Wallonie, néerlandais → Flandre.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Belgique",
+      "Études",
+      "Wallonie",
+      "Flandre"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "permis-etudes-canada",
+    "title": "Permis d'études Canada",
+    "description": "Comment obtenir un permis d'études pour étudier au Canada.",
+    "category": "Canada",
+    "subcategory": "Visa",
+    "country": "Canada",
+    "read_time": "12 min",
+    "icon_type": "FileText",
+    "intro": "Le permis d'études est requis pour étudier au Canada plus de 6 mois. C'est un document distinct du visa.",
+    "sections": [
+      {
+        "title": "Qui a besoin d'un permis ?",
+        "text": "Tous les étudiants étrangers (sauf ressortissants canadiens/résidents permanents) pour tout programme > 6 mois."
+      },
+      {
+        "title": "Lettre d'admission",
+        "text": "Document obligatoire d'une université canadienne agréée comme Designated Learning Institution (DLI). Vérifiez que l'université figure dans la liste officielle."
+      },
+      {
+        "title": "Ressources financières",
+        "text": "Prouver que vous pouvez financer vos études + frais de vie. Montants typiques: 20 000-50 000$ CAD/an selon le programme et la province."
+      },
+      {
+        "title": "SDS (Statement of Purpose)",
+        "text": "Document expliquant votre projet d'études, pourquoi le Canada, vos plans après. Important pour convaincre l'officier d'immigration."
+      },
+      {
+        "title": "CAQ (Certificat d'Acceptation Québécoise)",
+        "text": "Si vous étudiez au Québec, obtenir d'abord le CAQ auprès du ministère québécois avant la demande de permis fédéral."
+      },
+      {
+        "title": "Délais",
+        "text": "Comptez 4-12 semaines selon le pays. Demandez 2-3 mois avant la date de programme."
+      }
+    ],
+    "tip": "Le permis d'études vous permet aussi de travailler 20h/semaine pendant l'année scolaire et temps plein en vacances.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Canada",
+      "Visa",
+      "Permis d'études"
+    ],
+    "useful_links": [
+      {
+        "label": "Immigration Canada",
+        "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete.html"
+      },
+      {
+        "label": "DLI List",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/approved-learning.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "caq-quebec",
+    "title": "CAQ Québec - Certificat d'Acceptation",
+    "description": "Comment obtenir le CAQ pour étudier au Québec.",
+    "category": "Canada",
+    "subcategory": "Québec",
+    "country": "Canada",
+    "read_time": "8 min",
+    "icon_type": "FileText",
+    "intro": "Le CAQ (Certificat d'Acceptation Québécoise) est une étape préalable à la demande de permis d'études fédéral si vous allez au Québec.",
+    "sections": [
+      {
+        "title": "Pourquoi le CAQ ?",
+        "text": "Le Québec gère l'immigration pour le domaine de l'éducation. Le CAQ prépositif confirme que le Québec accepte votre candidature."
+      },
+      {
+        "title": "Demander le CAQ",
+        "text": "Postulez directement auprès du Ministère de l'Immigration, Francisation et Intégration du Québec (MIFI). Délais: 2-4 mois."
+      },
+      {
+        "title": "Frais",
+        "text": "CAQ gratuit."
+      },
+      {
+        "title": "Documents",
+        "text": "Lettre d'admission, passeport, preuves de ressources, relevés académiques, et lettre de motivation."
+      },
+      {
+        "title": "Après obtention",
+        "text": "Une fois le CAQ reçu, vous pouvez demander le permis d'études fédéral."
+      }
+    ],
+    "tip": "Demandez le CAQ dès réception de votre lettre d'admission. C'est l'étape 1 avant le permis fédéral.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Canada",
+      "Québec",
+      "CAQ"
+    ],
+    "useful_links": [
+      {
+        "label": "MIFI Québec",
+        "url": "https://www.immigration-quebec.gouv.qc.ca"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "bourses-vanier-canada",
+    "title": "Bourses Vanier Canada",
+    "description": "Guide pour obtenir les prestigieuses bourses Vanier du Canada.",
+    "category": "Bourses",
+    "subcategory": "Canada",
+    "country": "Canada",
+    "read_time": "10 min",
+    "icon_type": "Trophy",
+    "intro": "Les bourses Vanier sont parmi les plus prestigieuses au monde pour doctorants. Très compétitives mais très généreuses.",
+    "sections": [
+      {
+        "title": "Montant",
+        "text": "50 000$ CAD/an pour 3 ans = 150 000$ CAD totaux. Très compétitif."
+      },
+      {
+        "title": "Qui peut postuler ?",
+        "text": "Doctorants étrangers (incluant africains) inscrits dans universités canadiennes agréées. Excellents résultats requis (GPA 3.8+)."
+      },
+      {
+        "title": "Critères",
+        "text": "Académique (notes), leadership, engagement communautaire, et research potential."
+      },
+      {
+        "title": "Processus",
+        "text": "Votre université doit vous nominer. Limitez à 4 nominations par université. Date limite: décembre."
+      },
+      {
+        "title": "Taux d'acceptation",
+        "text": "Moins de 10% pour les candidats internationaux. Ultra-compétitif."
+      }
+    ],
+    "tip": "Si vous visez Vanier, ciblez les top universités canadiennes (UBC, McGill, Toronto, McMaster).",
+    "level": "Doctorat",
+    "profile": null,
+    "tags": [
+      "Canada",
+      "Bourses",
+      "Doctorat",
+      "Vanier"
+    ],
+    "useful_links": [
+      {
+        "label": "Bourses Vanier",
+        "url": "https://vanier.gc.ca"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "travail-canada-etudiant",
+    "title": "Travailler pendant les études au Canada",
+    "description": "Droits de travail et opportunités pour les étudiants au Canada.",
+    "category": "Canada",
+    "subcategory": "Travail",
+    "country": "Canada",
+    "read_time": "8 min",
+    "icon_type": "Briefcase",
+    "intro": "Les étudiants avec permis d'études au Canada peuvent légalement travailler. C'est une excellente source de revenu.",
+    "sections": [
+      {
+        "title": "Limite de travail",
+        "text": "20 heures/semaine pendant l'année scolaire (sept-avril). Temps plein en vacances d'été (mai-août)."
+      },
+      {
+        "title": "Types d'emploi",
+        "text": "Campus jobs (bibliothèque, informatique), restaurants, commerce, tutoring. Aucune restriction sectorielle."
+      },
+      {
+        "title": "Salaire minimum",
+        "text": "Varie par province: 14-16$ CAD/heure. Durée hebdomadaire * 15$ = ~4500-5000$ CAD/an possible."
+      },
+      {
+        "title": "Avantage financier",
+        "text": "Financer une partie de vos frais de vie + faire de l'expérience."
+      }
+    ],
+    "tip": "Campus jobs sont idéaux : flexibles, comprennent les contraintes étudiantes, et excellents pour le CV.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Canada",
+      "Travail",
+      "Étudiant"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "commonapp-usa",
+    "title": "CommonApp - Candidature USA",
+    "description": "Guide pour candidater aux universités américaines via CommonApp.",
+    "category": "USA",
+    "subcategory": "Candidature",
+    "country": "USA",
+    "read_time": "14 min",
+    "icon_type": "FileText",
+    "intro": "CommonApp est la plateforme centralisée pour candidater aux universités américaines. Plus de 1000 universités acceptent les candidatures CommonApp.",
+    "sections": [
+      {
+        "title": "Créer un compte",
+        "text": "Allez sur www.commonapp.org et créez un compte. Il faut le numéro CEEB de votre école pour valider."
+      },
+      {
+        "title": "Common Essay",
+        "text": "Essai personnel d'environ 650 mots. Les universités lisent ça en priorité. Doit raconter qui vous êtes, vos valeurs, aspirations."
+      },
+      {
+        "title": "Transcripts",
+        "text": "Bulletins scolaires traduits en anglais et apostillés. Demandez à votre école d'envoyer directement via CommonApp (Credentials)."
+      },
+      {
+        "title": "Recommendations",
+        "text": "2-3 lettres de recommandation de professeurs. Ils les envoient directement via CommonApp. Demandez-leur 2-3 semaines avant la deadline."
+      },
+      {
+        "title": "SAT/ACT",
+        "text": "Tests standardisés obligatoires. SAT: math + reading. ACT: math + reading + science. Passez entre 10e et 12e année."
+      },
+      {
+        "title": "TOEFL",
+        "text": "Test d'anglais obligatoire (sauf si scolarité entièrement en anglais). Score minimum 80-100 selon l'université."
+      },
+      {
+        "title": "Deadlines",
+        "text": "Early Decision (ED): novembre. Regular Decision (RD): janvier. Rolling Admission (plus de flexibilité)."
+      }
+    ],
+    "tip": "Commencez CommonApp 6 mois à l'avance. Les places sont limitées et les universités de top aiment les candidatures précoces.",
+    "level": "Bachelor",
+    "profile": null,
+    "tags": [
+      "USA",
+      "Candidature",
+      "CommonApp",
+      "SAT",
+      "ACT"
+    ],
+    "useful_links": [
+      {
+        "label": "CommonApp",
+        "url": "https://www.commonapp.org"
+      },
+      {
+        "label": "EducationUSA",
+        "url": "https://www.educationusa.state.gov"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "sat-vs-act",
+    "title": "SAT vs ACT - Quel test choisir ?",
+    "description": "Comparaison entre le SAT et l'ACT pour les universités américaines.",
+    "category": "USA",
+    "subcategory": "Tests standardisés",
+    "country": "USA",
+    "read_time": "10 min",
+    "icon_type": "FileText",
+    "intro": "SAT et ACT sont les deux tests standardisés principaux pour les universités américaines. Voici les différences.",
+    "sections": [
+      {
+        "title": "SAT",
+        "text": "Evidence-Based Reading + Writing (200-800) + Math (200-800) = 1600 total. Durée: 3h. Date limite: janvier année de 12e."
+      },
+      {
+        "title": "ACT",
+        "text": "English + Math + Reading + Science (1-36 chacun) = composite 36. Durée: 3h. Aussi janvier année de 12e."
+      },
+      {
+        "title": "Quel choisir ?",
+        "text": "SAT si vous êtes bon en reading/writing. ACT si vous êtes bon en science. Consultez votre HS counselor. Passez les deux pour comparer."
+      },
+      {
+        "title": "Préparation",
+        "text": "Comptez 3-6 mois de préparation. Khan Academy (gratuit) pour SAT, prep books pour ACT. Test blanc chaque week-end."
+      },
+      {
+        "title": "Coût",
+        "text": "SAT: ~60$. ACT: ~65$. Suppléments par centre de test (International: +70-100$). Budget 300-500$ si passage multiple."
+      }
+    ],
+    "tip": "Passez en junior year (11e). Ça laisse du temps pour repasser si nécessaire avant deadline.",
+    "level": "Bachelor",
+    "profile": null,
+    "tags": [
+      "USA",
+      "SAT",
+      "ACT",
+      "Tests"
+    ],
+    "useful_links": [
+      {
+        "label": "SAT officiel",
+        "url": "https://www.collegeboard.org"
+      },
+      {
+        "label": "ACT officiel",
+        "url": "https://www.act.org"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "fulbright-bourse-usa",
+    "title": "Bourse Fulbright USA",
+    "description": "Guide pour obtenir une bourse Fulbright pour les études aux USA.",
+    "category": "Bourses",
+    "subcategory": "USA",
+    "country": "USA",
+    "read_time": "10 min",
+    "icon_type": "Trophy",
+    "intro": "Fulbright est l'une des bourses les plus prestigieuses pour étudier aux USA. Très compétitif mais très généreux.",
+    "sections": [
+      {
+        "title": "Montant et couverture",
+        "text": "Couverture complète : frais de scolarité + allocation mensuelle (~1500$) + assurance santé. Durée : 1-2 ans selon le niveau."
+      },
+      {
+        "title": "Qui peut postuler ?",
+        "text": "Ressortissants de pays partenaires (dont tous les pays africains). Masters ou doctorants. Excellents résultats académiques."
+      },
+      {
+        "title": "Critères",
+        "text": "Academic excellence, projet d'études clair, impact potentiel dans votre pays, et leadership potentiel."
+      },
+      {
+        "title": "Processus",
+        "text": "Candidature via l'ambassade américaine de votre pays. Entretien avec commission locale. Résultats en mai/juin."
+      },
+      {
+        "title": "Taux de sélection",
+        "text": "Moins de 5% pour les africains. Extrêmement compétitif."
+      }
+    ],
+    "tip": "Si vous pensez avoir un excellent dossier académique ET un projet impactant, postulez. C'est un changement de vie potentiel.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Bourses",
+      "USA",
+      "Fulbright"
+    ],
+    "useful_links": [
+      {
+        "label": "Programme Fulbright",
+        "url": "https://www.state.gov/fulbright/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "community-college-usa",
+    "title": "Community College USA - Alternative Abordable",
+    "description": "Les Community Colleges comme tremplin abordable vers les universités américaines.",
+    "category": "USA",
+    "subcategory": "Études supérieures",
+    "country": "USA",
+    "read_time": "12 min",
+    "icon_type": "BookOpen",
+    "intro": "Les Community Colleges offrent une alternative abordable pour commencer aux USA et transférer vers une université 4-ans après 2 ans.",
+    "sections": [
+      {
+        "title": "Qu'est-ce qu'un CC ?",
+        "text": "Établissement public/privé offrant des diplômes 2-ans (Associate degree). Coût: 5 000-15 000$/an (vs 30 000-60 000$ université)."
+      },
+      {
+        "title": "Avantages",
+        "text": "Coût réduit, classes petites, transition plus facile, puis transfer 4-year degree. Très populaire auprès des internationaux."
+      },
+      {
+        "title": "Admissions",
+        "text": "Généralement plus ouvertes. SAT/ACT peut ne pas être requis. GPA 2.5+ suffisant parfois. TOEFL toujours requis."
+      },
+      {
+        "title": "Transfer vers université",
+        "text": "Après 2 ans au CC avec bonnes notes, transférez à une université 4-ans en tant que junior. Crédits comptent."
+      },
+      {
+        "title": "Travail autorisé",
+        "text": "Avec visa F-1, vous pouvez travailler on-campus (12h/semaine) ou off-campus si authorized by immigration."
+      }
+    ],
+    "tip": "CC est une excellente stratégie pour africains avec budgets limités. Moins de compétition, mêmes crédits au final.",
+    "level": "Bachelor",
+    "profile": null,
+    "tags": [
+      "USA",
+      "Community College",
+      "Études abordables"
+    ],
+    "useful_links": [],
+    "featured": false
+  },
+  {
+    "slug": "ucas-uk",
+    "title": "UCAS - Candidature Royaume-Uni",
+    "description": "Guide complet pour candidater via UCAS au Royaume-Uni.",
+    "category": "Royaume-Uni",
+    "subcategory": "Candidature",
+    "country": "Royaume-Uni",
+    "read_time": "12 min",
+    "icon_type": "FileText",
+    "intro": "UCAS est la plateforme centralisée pour toutes candidatures aux universités britanniques. Plus de 130 universités y participent.",
+    "sections": [
+      {
+        "title": "Créer un compte UCAS",
+        "text": "Allez sur www.ucas.com et créez un compte. Validez avec votre numéro de school code."
+      },
+      {
+        "title": "Personal Statement",
+        "text": "Essai de 4000 caractères sur pourquoi cette formation vous intéresse et quel est votre projet. C'est crucial."
+      },
+      {
+        "title": "Choix d'universités",
+        "text": "Vous pouvez candidater à 5 universités maximum (stretch, target, safe). Stratégie typique: 1-2 stretch, 2-3 target, 1-2 safe."
+      },
+      {
+        "title": "Références",
+        "text": "2 lettres de recommandation : une de professeur principal, une d'un autre professeur. Critiques constructives."
+      },
+      {
+        "title": "IELTS",
+        "text": "Score minimum: 6.5-7.0 selon l'université et le programme. Pour Russell Group: 7.0+."
+      },
+      {
+        "title": "Deadline",
+        "text": "31 octobre avant l'année de rentrée (UCAS Deadline). After: possible mais moins de places disponibles."
+      }
+    ],
+    "tip": "Candidatez avant octobre. Plus vous êtes tôt, meilleures sont les chances. Les universités offrent jusqu'en janvier.",
+    "level": "Bachelor",
+    "profile": null,
+    "tags": [
+      "Royaume-Uni",
+      "UCAS",
+      "Candidature"
+    ],
+    "useful_links": [
+      {
+        "label": "UCAS",
+        "url": "https://www.ucas.com"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "chevening-bourse",
+    "title": "Bourse Chevening - Royaume-Uni",
+    "description": "Guide pour obtenir la prestigieuse bourse Chevening pour études au Royaume-Uni.",
+    "category": "Bourses",
+    "subcategory": "Royaume-Uni",
+    "country": "Royaume-Uni",
+    "read_time": "10 min",
+    "icon_type": "Trophy",
+    "intro": "Chevening est la bourse britannique de prestige pour leaders émergents des pays en développement. Très compétitif et transformateur.",
+    "sections": [
+      {
+        "title": "Montant",
+        "text": "Couverture complète: frais de scolarité + allocation mensuelle (~1200£) + assurance santé + billet d'avion."
+      },
+      {
+        "title": "Durée et niveau",
+        "text": "Masters 1-2 ans. Rarement pour doctorats. Must study au Royaume-Uni."
+      },
+      {
+        "title": "Critères principaux",
+        "text": "Excellent academic record, expérience professionnelle/volontariat pertinente, project impact dans votre pays, English fluency."
+      },
+      {
+        "title": "Qui est éligible ?",
+        "text": "Ressortissants de plus de 160 pays (inclus pays africains). Généralement 2-5 ans expérience prof minimum."
+      },
+      {
+        "title": "Processus",
+        "text": "Candidature online novembre. Court-listing décembre. Entretien janvier. Final selection février/mars."
+      },
+      {
+        "title": "Taux acceptation",
+        "text": "Moins de 5% mondialement. Environ 2000 bourses/an pour 100 000+ candidatures."
+      }
+    ],
+    "tip": "Chevening veut des leaders avec impact. Mettez l'accent sur votre potentiel à changer votre pays/région.",
+    "level": "Master",
+    "profile": null,
+    "tags": [
+      "Bourses",
+      "Royaume-Uni",
+      "Chevening"
+    ],
+    "useful_links": [
+      {
+        "label": "Chevening",
+        "url": "https://www.chevening.org"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "goethe-institut-centres",
+    "title": "Centres de langues - Goethe Institut",
+    "description": "Où passer les tests Goethe en Afrique pour l'allemand.",
+    "category": "Centres de langues",
+    "subcategory": "Allemand",
+    "country": null,
+    "read_time": "8 min",
+    "icon_type": "Globe",
+    "intro": "Le Goethe Institut est l'organisme officiel pour les tests d'allemand (TestDaF, Goethe-Zertifikat). Voici les centres en Afrique.",
+    "sections": [
+      {
+        "title": "Cameroun",
+        "text": "Yaoundé et Douala. Centres agréés Goethe. Calendrier des tests: mensuel généralement."
+      },
+      {
+        "title": "Togo",
+        "text": "Lomé. Centre Goethe. Inscriptions 2 mois avant l'examen."
+      },
+      {
+        "title": "Bénin",
+        "text": "Cotonou. Centre Goethe. Tarif: environ 50 000 FCFA."
+      },
+      {
+        "title": "Sénégal",
+        "text": "Dakar. Institut Français (partenaire) organise TestDaF."
+      },
+      {
+        "title": "Maroc",
+        "text": "Rabat, Casablanca. Goethe Institut. Excellente infrastructure."
+      },
+      {
+        "title": "Tunisie",
+        "text": "Tunis. Centre agréé. Environnement de test professionnel."
+      }
+    ],
+    "tip": "Inscrivez-vous 2-3 mois à l'avance. Les dates se remplissent vite, surtout les périodes printemps/automne.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Tests de langue",
+      "Allemand",
+      "Goethe",
+      "Centres"
+    ],
+    "useful_links": [
+      {
+        "label": "Goethe Institut",
+        "url": "https://www.goethe.de"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "tests-francais-tcf-delf",
+    "title": "Tests français - TCF, DELF, DALF",
+    "description": "Différences entre TCF, DELF et DALF pour les études en France.",
+    "category": "Centres de langues",
+    "subcategory": "Français",
+    "country": null,
+    "read_time": "10 min",
+    "icon_type": "Globe",
+    "intro": "Pour étudier en France, vous devez passer un test de français officiel. Voici les trois options principales.",
+    "sections": [
+      {
+        "title": "TCF (Test de Connaissance du Français)",
+        "text": "Test rapide (1h15) et peu coûteux (~80€). Valide 2 ans. Accepté par Campus France et universités. Niveaux: A2-C2."
+      },
+      {
+        "title": "DELF (Diplôme d'Études en Langue Française)",
+        "text": "Diplôme complet avec 4 compétences. Valide à vie. Niveaux: A1-B2. Plus reconnu internationalement que TCF."
+      },
+      {
+        "title": "DALF (Diplôme Approfondi de Langue Française)",
+        "text": "Niveaux C1-C2 (avancé). Requis pour grandes écoles. Valide à vie. Examen plus difficile."
+      },
+      {
+        "title": "Lequel choisir ?",
+        "text": "Masters: TCF B2 ou DELF B2. Grandes écoles/écoles d'ingé: DALF C1. Campus France accepte tous les trois."
+      },
+      {
+        "title": "Centres en Afrique",
+        "text": "France Éducation International gère les centres agréés partout en Afrique. Plus de 200 centres dans le monde."
+      }
+    ],
+    "tip": "TCF est plus facile et rapide. Passez-le d'abord. Si vous en manquez, repassez avant le deadline Campus France.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "Tests français",
+      "TCF",
+      "DELF",
+      "DALF"
+    ],
+    "useful_links": [
+      {
+        "label": "France Éducation International",
+        "url": "https://www.france-education-international.fr"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "ielts-test",
+    "title": "IELTS - Tests d'anglais",
+    "description": "Guide complet pour le test IELTS d'anglais.",
+    "category": "Centres de langues",
+    "subcategory": "Anglais",
+    "country": null,
+    "read_time": "10 min",
+    "icon_type": "Globe",
+    "intro": "IELTS est le test d'anglais le plus reconnu pour études au Royaume-Uni, Canada, Australie, NZ et parfois USA.",
+    "sections": [
+      {
+        "title": "Versions de l'IELTS",
+        "text": "Academic (pour études université) vs General (pour travail). Pour études: Academic obligatoire."
+      },
+      {
+        "title": "Scores",
+        "text": "Échelle 0-9. Université britannique: 6.5-7.5+. Canada: 6.5. Australie: 6.5+."
+      },
+      {
+        "title": "Durée",
+        "text": "Environ 2h45 total. 4 modules: Listening (30min), Reading (60min), Writing (60min), Speaking (15min)"
+      },
+      {
+        "title": "Validité",
+        "text": "Valide 2 ans."
+      },
+      {
+        "title": "Coût",
+        "text": "Environ $200-220 USD selon le pays. Assez cher mais nécessaire."
+      },
+      {
+        "title": "Speaking",
+        "text": "Module intéressant : entretien face-à-face (ou parfois par vidéo selon centre) avec un examinateur."
+      }
+    ],
+    "tip": "Préférez IELTS à TOEFL pour études au Royaume-Uni/Canada/Australie. TOEFL pour USA.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "IELTS",
+      "Anglais",
+      "Tests"
+    ],
+    "useful_links": [
+      {
+        "label": "IELTS officiel",
+        "url": "https://www.ielts.org"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "toefl-test",
+    "title": "TOEFL - Alternative à IELTS",
+    "description": "Guide complet pour le test TOEFL d'anglais.",
+    "category": "Centres de langues",
+    "subcategory": "Anglais",
+    "country": null,
+    "read_time": "10 min",
+    "icon_type": "Globe",
+    "intro": "TOEFL est le test d'anglais préféré des universités américaines. Plus difficile que IELTS mais très reconnu.",
+    "sections": [
+      {
+        "title": "TOEFL iBT",
+        "text": "Test informatisé. Anglais authentique (accents nord-américains, britanniques, australiens). Accepté dans 150+ pays."
+      },
+      {
+        "title": "Score",
+        "text": "Échelle 0-120. Université USA: 80-100+. Top universités: 100+. Score valide 2 ans."
+      },
+      {
+        "title": "Durée",
+        "text": "Environ 3h total. 4 modules: Reading (35min), Listening (35min), Break (10min), Speaking (16min), Writing (50min)."
+      },
+      {
+        "title": "Coût",
+        "text": "Environ $245 USD. Plus cher que IELTS."
+      },
+      {
+        "title": "Avantages",
+        "text": "Très reconnu USA. Speaking module facile (computer-scored, pas de humain). Result vite (15 jours)."
+      },
+      {
+        "title": "Désavantages",
+        "text": "Difficile pour non-native speakers. Temps limité. Moins utile hors USA."
+      }
+    ],
+    "tip": "TOEFL pour USA, IELTS pour UK/Canada/Australia. Rares universités acceptent les deux.",
+    "level": null,
+    "profile": null,
+    "tags": [
+      "TOEFL",
+      "Anglais",
+      "Tests",
+      "USA"
+    ],
+    "useful_links": [
+      {
+        "label": "TOEFL officiel",
+        "url": "https://www.ets.org/toefl"
+      }
+    ],
+    "featured": false
+  }
+]

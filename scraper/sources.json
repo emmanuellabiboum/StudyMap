@@ -1,0 +1,29 @@
+{
+  "check": {
+    "_defaults": { "trust_dates": false },
+    "overrides": {
+      "_exemple": {
+        "url": "https://exemple.org/page-qui-contient-la-date",
+        "trust_dates": false
+      }
+    }
+  },
+
+  "listings": [
+    {
+      "id": "exemple-desactive",
+      "enabled": false,
+      "url": "https://exemple.org/scholarships",
+      "item": "article.scholarship",
+      "name": "h2",
+      "link": "a",
+      "description": "p",
+      "defaults": {
+        "org": "Nom de l'organisme",
+        "country": "Pays",
+        "amount": "À confirmer",
+        "tag": "À vérifier"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Campus France",
+    "desc": "La porte d'entrée officielle pour étudier en France. Présent dans plus de 30 pays africains avec des espaces locaux pour accompagner les dossiers.",
+    "country": "France",
+    "url": "https://www.campusfrance.org/fr",
+    "badge": "campusfrance.org",
+    "tag": "Très demandé",
+    "langs": [
+      "Français"
+    ],
+    "africa": "Disponible dans 30+ pays africains"
+  },
+  {
+    "name": "Etudes en France",
+    "desc": "Plateforme de dépôt de dossier Campus France. Obligatoire pour les ressortissants de nombreux pays africains souhaitant candidater en France.",
+    "country": "France",
+    "url": "https://pastel.diplomatie.gouv.fr/etudesenfrance",
+    "badge": "diplomatie.gouv.fr",
+    "tag": "Très demandé",
+    "langs": [
+      "Français"
+    ],
+    "africa": "Maghreb, Afrique subsaharienne francophone"
+  },
+  {
+    "name": "DAAD",
+    "desc": "Office allemand d'échanges universitaires — bourses accessibles aux africains, programmes en anglais et en allemand avec accompagnement linguistique.",
+    "country": "Allemagne",
+    "url": "https://www.daad.de/en/",
+    "badge": "daad.de",
+    "tag": "Bourses incluses",
+    "langs": [
+      "Anglais",
+      "Allemand"
+    ],
+    "africa": "Ouvert à tous les pays africains"
+  },
+  {
+    "name": "Chevening",
+    "desc": "Programme de bourses du gouvernement britannique ouvert aux africains anglophones et francophones. Couvre les frais de scolarité et le séjour.",
+    "country": "Royaume-Uni",
+    "url": "https://www.chevening.org",
+    "badge": "chevening.org",
+    "tag": "Entièrement financé",
+    "langs": [
+      "Anglais"
+    ],
+    "africa": "Ouvert à 50+ pays africains"
+  },
+  {
+    "name": "Erasmus Mundus",
+    "desc": "Programme européen de masters conjoints avec bourses. Très accessible aux africains — pas besoin d'être en Europe pour candidater.",
+    "country": "Union Européenne",
+    "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "badge": "ec.europa.eu",
+    "tag": "Entièrement financé",
+    "langs": [
+      "Français",
+      "Anglais"
+    ],
+    "africa": "Ouvert à tous les pays africains"
+  },
+  {
+    "name": "EduCanada",
+    "desc": "Portail officiel canadien pour les étudiants internationaux. Le Canada accueille activement les africains francophones, surtout du Maghreb et d'Afrique de l'Ouest.",
+    "country": "Canada",
+    "url": "https://www.educanada.ca",
+    "badge": "educanada.ca",
+    "tag": "Entièrement financé",
+    "langs": [
+      "Français",
+      "Anglais"
+    ],
+    "africa": "Maghreb, Afrique subsaharienne"
+  },
+  {
+    "name": "Study in Morocco",
+    "desc": "Portail officiel marocain pour les études supérieures. Le Maroc est une destination de premier plan pour les étudiants d'Afrique subsaharienne francophone.",
+    "country": "Maroc",
+    "url": "https://www.enssup.gov.ma",
+    "badge": "enssup.gov.ma",
+    "tag": "Très demandé",
+    "langs": [
+      "Français",
+      "Arabe"
+    ],
+    "africa": "Afrique francophone"
+  },
+  {
+    "name": "Swiss Government Scholarships",
+    "desc": "Bourses d'excellence du gouvernement suisse ouvertes aux africains pour des études de master et doctorat dans les meilleures universités suisses.",
+    "country": "Suisse",
+    "url": "https://www.sbfi.admin.ch/scholarships",
+    "badge": "sbfi.admin.ch",
+    "tag": "Excellence",
+    "langs": [
+      "Français",
+      "Anglais"
+    ],
+    "africa": "Ouvert à tous les pays africains"
+  }
+]

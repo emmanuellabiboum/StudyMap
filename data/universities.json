@@ -1,0 +1,427 @@
+[
+  {
+    "id": "1",
+    "name": "UCAC",
+    "fullName": "Université Catholique d'Afrique Centrale",
+    "country": "Cameroun",
+    "city": "Yaoundé",
+    "ranking": "Top université privée Afrique centrale",
+    "type": "Privée catholique",
+    "cost": "Frais modérés (~300 000 FCFA/an)",
+    "programs": [
+      "Droit",
+      "Économie & Gestion",
+      "Philosophie",
+      "Théologie",
+      "Sciences sociales",
+      "Informatique"
+    ],
+    "access": "Ouvert aux africains — bourse de coopération disponible",
+    "scholarship": "Bourse de coopération catholique, exonération partielle",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "admissionUrl": "https://www.ucac-icy.net",
+    "description": "Institution reconnue en Afrique centrale, bilingue, avec un réseau de coopération international fort.",
+    "tags": [
+      "Bilingue",
+      "Abordable",
+      "Afrique centrale"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Université de Yaoundé I",
+    "fullName": "Université de Yaoundé I",
+    "country": "Cameroun",
+    "city": "Yaoundé",
+    "ranking": "#1 Université publique Cameroun",
+    "type": "Publique",
+    "cost": "Très faible (~50 000 FCFA/an)",
+    "programs": [
+      "Médecine",
+      "Sciences exactes",
+      "Polytechnique",
+      "Lettres",
+      "Droit",
+      "Économie"
+    ],
+    "access": "Ouvert aux africains — frais quasi nuls",
+    "scholarship": "Bourse de coopération camerounaise, aides sociales",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "admissionUrl": "https://www.uy1.uninet.cm",
+    "description": "Grande université publique bilingue, référence scientifique en Afrique centrale.",
+    "tags": [
+      "Publique",
+      "Très abordable",
+      "Bilingue"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "FSEG Tunis",
+    "fullName": "Faculté des Sciences Économiques et de Gestion de Tunis",
+    "country": "Tunisie",
+    "city": "Tunis",
+    "ranking": "Top faculté économie Afrique du Nord",
+    "type": "Publique",
+    "cost": "Très faible (~150 DT/an pour étrangers africains)",
+    "programs": [
+      "Économie",
+      "Finance",
+      "Comptabilité",
+      "Marketing",
+      "Commerce international",
+      "Statistiques"
+    ],
+    "access": "Bourses de coopération africaine — très accessible",
+    "scholarship": "Bourse de coopération tunisienne, exonération africains sub-sahariens",
+    "languages": [
+      "Français",
+      "Arabe"
+    ],
+    "admissionUrl": "https://www.fsegt.rnu.tn",
+    "description": "Référence en économie et gestion en Afrique du Nord, très prisée par les étudiants subsahariens.",
+    "tags": [
+      "Publique",
+      "Très abordable",
+      "Bourse africaine"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "ENIT",
+    "fullName": "École Nationale d'Ingénieurs de Tunis",
+    "country": "Tunisie",
+    "city": "Tunis",
+    "ranking": "#1 École d'ingénieurs Tunisie",
+    "type": "Publique",
+    "cost": "Faible (~200 DT/an)",
+    "programs": [
+      "Génie civil",
+      "Génie électrique",
+      "Informatique",
+      "Mécanique",
+      "Industriel"
+    ],
+    "access": "Ouvert aux africains avec bourse de coopération",
+    "scholarship": "Bourse de coopération tunisienne — exonération totale possible",
+    "languages": [
+      "Français",
+      "Arabe"
+    ],
+    "admissionUrl": "https://www.enit.rnu.tn",
+    "description": "École d'ingénieurs publique de référence, reconnue dans toute l'Afrique francophone.",
+    "tags": [
+      "Ingénierie",
+      "Publique",
+      "Exonération possible"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "UCAD",
+    "fullName": "Université Cheikh Anta Diop de Dakar",
+    "country": "Sénégal",
+    "city": "Dakar",
+    "ranking": "#1 Université francophone Afrique de l'Ouest",
+    "type": "Publique",
+    "cost": "Très faible (~gratuit pour nationaux, très bas pour africains)",
+    "programs": [
+      "Médecine",
+      "Droit",
+      "Lettres",
+      "Sciences",
+      "Économie",
+      "Pharmacie",
+      "Ingénierie"
+    ],
+    "access": "Très ouvert aux africains de la CEDEAO et au-delà",
+    "scholarship": "Bourse de coopération africaine, aide sociale CROUS",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.ucad.sn",
+    "description": "La plus grande université francophone d'Afrique de l'Ouest, symbole de l'excellence académique africaine.",
+    "tags": [
+      "Publique",
+      "Gratuit / quasi gratuit",
+      "Référence Afrique de l'Ouest"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "ESP Dakar",
+    "fullName": "École Supérieure Polytechnique de Dakar",
+    "country": "Sénégal",
+    "city": "Dakar",
+    "ranking": "Top école d'ingénieurs Afrique de l'Ouest",
+    "type": "Publique (rattachée UCAD)",
+    "cost": "Très faible",
+    "programs": [
+      "Informatique",
+      "Génie électrique",
+      "Génie civil",
+      "Génie chimique",
+      "Architecture"
+    ],
+    "access": "Ouvert aux africains, dossier sur concours ou équivalence",
+    "scholarship": "Bourse nationale sénégalaise, coopération internationale",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.esp.sn",
+    "description": "École polytechnique publique de référence, formant les ingénieurs de toute l'Afrique de l'Ouest.",
+    "tags": [
+      "Ingénierie",
+      "Publique",
+      "Très abordable"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Sorbonne Université",
+    "fullName": "Sorbonne Université",
+    "country": "France",
+    "city": "Paris",
+    "ranking": "#1 France (QS 2024)",
+    "type": "Publique",
+    "cost": "Faible (~3 770€/an non-UE, exonération possible)",
+    "programs": [
+      "Médecine",
+      "Sciences",
+      "Lettres & Humanités",
+      "Droit",
+      "Philosophie",
+      "Langues"
+    ],
+    "access": "Via Campus France + exonération sur dossier social",
+    "scholarship": "Bourse Eiffel, bourse ambassade, exonération frais différenciés",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.sorbonne-universite.fr/admissions",
+    "description": "L'une des universités les plus anciennes et prestigieuses du monde, accessible aux africains via Campus France.",
+    "tags": [
+      "Prestige",
+      "Exonération possible",
+      "Campus France"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Polytech Orléans",
+    "fullName": "Université d'Orléans — Polytech Orléans",
+    "country": "France",
+    "city": "Orléans",
+    "ranking": "Top 10 Polytech France",
+    "type": "Publique (réseau Polytech)",
+    "cost": "Faible (exonération fréquente)",
+    "programs": [
+      "Informatique",
+      "Électronique",
+      "Mécanique",
+      "Énergie",
+      "Génie industriel",
+      "Biosciences"
+    ],
+    "access": "Via Campus France — exonération fréquente pour africains méritants",
+    "scholarship": "Bourse Eiffel, bourse ambassade France, exonération sur dossier",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.univ-orleans.fr/polytech",
+    "description": "École d'ingénieurs publique du réseau Polytech, très accessible aux africains francophones avec de bons dossiers.",
+    "tags": [
+      "Ingénierie",
+      "Exonération fréquente",
+      "Campus France"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Université Paul Sabatier",
+    "fullName": "Université Toulouse III — Paul Sabatier",
+    "country": "France",
+    "city": "Toulouse",
+    "ranking": "Top université sciences & santé France",
+    "type": "Publique",
+    "cost": "Faible (exonération possible sur dossier)",
+    "programs": [
+      "Médecine",
+      "Pharmacie",
+      "Sciences de la vie",
+      "Informatique",
+      "Mathématiques",
+      "Physique"
+    ],
+    "access": "Via Campus France — forte communauté africaine étudiante",
+    "scholarship": "Bourse Eiffel, exonération frais différenciés, CROUS",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.univ-tlse3.fr/admissions",
+    "description": "Référence française en sciences, santé et ingénierie, avec une forte tradition d'accueil des étudiants africains.",
+    "tags": [
+      "Sciences & Santé",
+      "Publique",
+      "Communauté africaine"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Sciences Po Paris",
+    "fullName": "Sciences Po Paris",
+    "country": "France",
+    "city": "Paris",
+    "ranking": "#3 Sciences politiques UE",
+    "type": "Établissement public",
+    "cost": "Modulable selon revenus (peut être gratuit)",
+    "programs": [
+      "Affaires internationales",
+      "Droit",
+      "Économie",
+      "Journalisme",
+      "Politique publique"
+    ],
+    "access": "Programme CEP pour lycéens de ZEP africains — accès spécial",
+    "scholarship": "Bourse Sciences Po, programme CEP, bourses ambassade",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "admissionUrl": "https://www.sciencespo.fr/admissions",
+    "description": "Institution d'élite avec un programme spécifique d'accès pour lycéens africains et frais modulés selon revenus.",
+    "tags": [
+      "Élite",
+      "Frais modulés",
+      "Programme africain CEP"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Université de Montréal",
+    "fullName": "Université de Montréal",
+    "country": "Canada",
+    "city": "Montréal",
+    "ranking": "#1 université francophone hors France",
+    "type": "Publique",
+    "cost": "Modéré (~8 000 CAD/an)",
+    "programs": [
+      "Médecine",
+      "Droit",
+      "Informatique",
+      "Lettres",
+      "Sciences sociales",
+      "Pharmacie",
+      "Architecture"
+    ],
+    "access": "Très ouvert aux africains francophones — peu de barrière linguistique",
+    "scholarship": "Bourse du gouvernement du Québec, OFQJ, bourse d'excellence",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://admission.umontreal.ca",
+    "description": "Première université francophone hors France, destination favorite des africains francophones au Canada.",
+    "tags": [
+      "Francophone",
+      "Très accessible",
+      "Bourse Québec"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Université Laval",
+    "fullName": "Université Laval",
+    "country": "Canada",
+    "city": "Québec",
+    "ranking": "Top 5 universités francophones Canada",
+    "type": "Publique",
+    "cost": "Modéré (~7 500 CAD/an)",
+    "programs": [
+      "Agronomie",
+      "Sciences forestières",
+      "Médecine",
+      "Droit",
+      "Génie",
+      "Sciences sociales"
+    ],
+    "access": "Excellent accueil des africains francophones — accompagnement spécifique",
+    "scholarship": "Bourse de la Francophonie, bourse CRSH, exemption partielle",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.ulaval.ca/admissions",
+    "description": "Université francophone historique avec des programmes de soutien spécifiques pour les étudiants africains.",
+    "tags": [
+      "Francophone",
+      "Accompagnement africains",
+      "Bourse francophonie"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Université Mohammed V",
+    "fullName": "Université Mohammed V de Rabat",
+    "country": "Maroc",
+    "city": "Rabat",
+    "ranking": "#1 Maroc",
+    "type": "Publique",
+    "cost": "Très faible (~500 MAD/an, exonération africains subsahariens)",
+    "programs": [
+      "Droit",
+      "Sciences économiques",
+      "Médecine",
+      "Lettres",
+      "Sciences",
+      "Ingénierie"
+    ],
+    "access": "Bourse de coopération marocaine — priorité africains subsahariens",
+    "scholarship": "Bourse du gouvernement marocain (AMCI) — entièrement financée",
+    "languages": [
+      "Français",
+      "Arabe"
+    ],
+    "admissionUrl": "https://www.um5.ac.ma",
+    "description": "Université phare du Maroc, avec un programme de bourses AMCI dédié aux africains subsahariens très généreux.",
+    "tags": [
+      "Bourse AMCI",
+      "Exonération totale",
+      "Très accessible"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Université Libre de Bruxelles",
+    "fullName": "Université Libre de Bruxelles (ULB)",
+    "country": "Belgique",
+    "city": "Bruxelles",
+    "ranking": "Top 200 mondial",
+    "type": "Publique",
+    "cost": "Faible (~835€/an — même tarif que les belges pour certains africains)",
+    "programs": [
+      "Droit",
+      "Médecine",
+      "Sciences politiques",
+      "Ingénierie",
+      "Philosophie",
+      "Économie"
+    ],
+    "access": "Frais identiques aux Belges pour africains avec bourse — très accessible",
+    "scholarship": "Bourse ULB, bourse de la Coopération belge, ARES",
+    "languages": [
+      "Français"
+    ],
+    "admissionUrl": "https://www.ulb.be/admission",
+    "description": "Université de prestige francophone, historiquement très liée à l'Afrique centrale — frais très bas avec bourse.",
+    "tags": [
+      "Francophone",
+      "Frais bas",
+      "Lien Afrique centrale"
+    ]
+  }
+]

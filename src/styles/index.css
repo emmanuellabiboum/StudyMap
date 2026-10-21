@@ -1,0 +1,22 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+.scroll-reveal {
+	opacity: 0;
+	transform: translateY(18px);
+	transition: opacity 500ms ease, transform 500ms ease;
+}
+
+.scroll-reveal.is-visible {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.scroll-reveal {
+		opacity: 1;
+		transform: none;
+		transition: none;
+	}
+}
